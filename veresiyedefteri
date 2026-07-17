@@ -1,0 +1,83 @@
+Privacy Policy
+Last updated: July 17, 2026
+
+This Privacy Policy describes how Veresiye Defteri ("we," "our," or "the App") collects, uses, and protects your information when you use our mobile application. By using the App, you agree to the practices described in this policy.
+
+1. Information We Collect
+1.1 Account Information
+When you sign up or log in using Google Sign-In or email authentication, we collect:
+
+Your name
+Your email address
+Your profile photo (if available)
+A unique user identifier
+1.2 Customer and Transaction Data
+The App is designed to help you track debts and receivables. You may enter and store:
+
+Customer names and contact information
+Phone numbers
+Debt and payment records (amounts, dates, descriptions)
+Photos or receipts you choose to attach
+This data is entered by you and stored to provide the core functionality of the App.
+
+1.3 Contacts (Optional)
+With your explicit permission, the App may access your device contacts to help you quickly add customers. Contact data is only used within the App and is not uploaded or shared without your action.
+
+1.4 Camera and Photos (Optional)
+With your permission, the App may access your camera or photo library to let you attach images (such as receipts) to records.
+
+1.5 Device and Usage Information
+We may automatically collect limited technical information, such as:
+
+Device type and operating system version
+App version
+Crash logs and diagnostic data
+Advertising identifiers
+2. How We Use Your Information
+We use the collected information to:
+
+Provide and maintain the App's core features
+Authenticate your account and secure your data
+Sync your data across devices via the cloud
+Send notifications and reminders you enable
+Display advertisements (see Section 5)
+Improve app performance and fix issues
+Provide customer support
+3. Data Storage and Security
+Your data is stored locally on your device and, when signed in, synced securely to Google Firebase (Firestore, Firebase Storage, Firebase Authentication).
+We use industry-standard security measures, including encrypted transmission (HTTPS/TLS).
+The App supports optional PIN and biometric (fingerprint/face) locks to protect access to your data on your device.
+While we take reasonable steps to protect your information, no method of transmission or storage is 100% secure.
+4. Third-Party Services
+The App relies on the following third-party services, which have their own privacy policies:
+
+Google Firebase (authentication, database, storage, messaging) – Firebase Privacy
+Google Sign-In – Google Privacy Policy
+Google AdMob (advertising) – AdMob Privacy
+5. Advertising
+The App uses Google AdMob to display advertisements. AdMob may use advertising identifiers to serve personalized or non-personalized ads. You can manage ad personalization through your device settings.
+
+6. Data Sharing
+We do not sell your personal information. We do not share your data with third parties except:
+
+With service providers (such as Firebase and AdMob) necessary to operate the App
+When required by law or to protect our legal rights
+With your explicit consent
+7. Data Retention and Deletion
+Your data is retained as long as your account is active.
+You may delete individual records at any time within the App.
+You may request deletion of your account and all associated data by contacting us at the email below. Upon request, we will delete your data from our servers within a reasonable time frame.
+8. Children's Privacy
+The App is not intended for children under the age of 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children.
+
+9. Your Rights
+Depending on your location, you may have the right to:
+
+Access the personal data we hold about you
+Request correction or deletion of your data
+Withdraw consent for optional permissions (contacts, camera, notifications)
+Object to or restrict certain processing
+To exercise these rights, contact us using the details below.
+
+10. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted within the App and/or on this page with an updated "Last updated" date. Continued use of the App after changes constitutes acceptance of the revised policy.
