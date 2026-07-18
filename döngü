@@ -1,0 +1,111 @@
+Privacy Policy
+
+App: Cycelle (Period Tracker, Pregnancy, AI)
+Developer: AppNestMath
+Package name: app.reglapp.app
+Last updated: June 5, 2025
+
+This Privacy Policy explains how your personal data is collected, used, stored, and protected when you use the Cycelle mobile application (the "App"). By using the App, you agree to this policy.
+
+1. Data Controller
+
+The data controller is AppNestMath. For privacy-related questions, you can contact us at:
+
+Email: support@reglapp.com
+2. Data We Collect
+
+The App may collect and process the following types of data:
+
+2.1 Account Information
+
+Email address
+Name / display name (optional)
+Authentication credentials (via Firebase Authentication)
+Basic profile information from your Google account when you sign in with Google
+2.2 Health and Cycle Data
+
+Menstrual cycle dates and durations
+Daily logs (symptoms, flow intensity, notes, etc.)
+Mood logs
+Pregnancy tracking data (when used)
+Reminder and notification preferences
+2.3 Artificial Intelligence (AI) Chat Data
+
+Messages you send to the AI assistant
+AI responses
+Cycle and health context data used to generate responses
+2.4 Technical and Usage Data
+
+Device type and operating system version
+App version
+Crash and error logs
+Advertising ID (via Google AdMob)
+Push notification token (Firebase Cloud Messaging)
+2.5 Locally Stored Data
+
+App preferences and settings (SharedPreferences / Hive)
+Private mode preference
+3. How We Use Your Data
+
+Collected data is used for the following purposes:
+
+Creating accounts, signing in, and authentication
+Providing menstrual cycle, pregnancy, and health tracking features
+Sending personalized reminders and notifications
+Providing health and cycle information through the AI assistant
+Displaying statistics and trend analysis
+Improving app performance and fixing errors
+Displaying ads (Google AdMob)
+Complying with legal obligations
+4. Data Sharing
+
+We do not sell your personal data. Your data may be shared only with the following service providers, to the extent necessary for the App to function:
+
+Google Firebase – authentication, database (Firestore), file storage, push notifications
+Google Gemini AI – generating AI chat responses (message and context data)
+Google AdMob – displaying ads
+Google Sign-In – signing in with a Google account
+These service providers are subject to their own privacy policies:
+
+Google Privacy Policy: https://policies.google.com/privacy
+Firebase Privacy: https://firebase.google.com/support/privacy
+5. Data Retention and Security
+
+Your data is stored on secure servers in the Google Firebase infrastructure.
+Data is encrypted in transit (HTTPS/TLS).
+When you delete your account, associated data is deleted or anonymized within a reasonable time.
+When Private Mode is enabled, certain data is not sent to cloud servers.
+6. Your Rights
+
+Under applicable privacy laws (including KVKK and GDPR), you have the right to:
+
+Request access to your data
+Request correction of your data
+Request deletion of your data
+Object to data processing
+Request data portability
+To exercise these rights, email us at support@reglapp.com.
+
+7. Account and Data Deletion
+
+To delete your account and data:
+
+You may use the in-app account deletion option (if available), or
+Send an account deletion request to support@reglapp.com.
+Your request will be processed within 30 days at the latest.
+
+8. Children's Privacy
+
+The App is not intended for children under 13. We do not knowingly collect personal data from anyone under 13. If we become aware of such a case, the related data will be deleted promptly.
+
+9. Advertising
+
+The App may display Google AdMob ads. AdMob may collect device identifiers and usage data for ad personalization. You can manage your ad preferences in your device settings.
+
+10. Notifications
+
+We may request notification permission on your device to send reminder and informational notifications. You can turn this off at any time in your device settings.
+
+11. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Significant changes will be announced in the App or on this page. Continued use of the App after an update means you accept the revised policy.
