@@ -1,0 +1,119 @@
+Privacy Policy – Metin Sihirbazı
+
+Last updated: July 18, 2026
+
+This Privacy Policy explains how Metin Sihirbazı (“the App,” “we,” “us,” or “our”) handles information when you use our mobile application. By using the App, you agree to this Privacy Policy.
+
+1. Who we are
+
+Metin Sihirbazı is a mobile app that converts images, speech, and audio/video files into text, and lets you save or share results (including as PDF).
+
+2. Information we process
+
+The App is designed so that most processing happens on your device. We do not require you to create an account, and we do not operate a user database of personal profiles.
+
+Depending on how you use the App, the following may be processed:
+
+a) Content you provide
+
+Photos or images you take or select for text recognition (OCR)
+Microphone audio for live speech-to-text
+Audio or video files you select for transcription
+Text you generate, edit, refine, or export (including PDFs)
+b) Device permissions With your permission, the App may access:
+
+Camera (to capture images for OCR)
+Microphone (for speech recognition)
+Photos, media, or files (to select images or audio/video files)
+Internet (for optional online AI features)
+Bluetooth-related permissions on some devices (used by the speech recognition stack where required by the system)
+You can deny or revoke these permissions in your device settings. Some features will not work without the related permission.
+
+c) Local preferences The App may store limited settings on your device (for example via local storage), such as preferences needed for app features. This data stays on your device unless you clear the App’s data or uninstall it.
+
+3. How we use information
+
+We use the information only to provide App features, including:
+
+Extracting text from images
+Converting speech or audio/video into text
+Improving or refining text using optional AI features
+Creating, saving, printing, or sharing text and PDF files
+Operating and improving the App’s core functionality
+We do not sell your personal information.
+
+4. On-device vs. online processing
+
+On-device processing Certain features run locally on your device, including:
+
+On-device OCR (where available)
+Offline audio transcription using an on-device speech model
+Local file conversion and PDF creation
+Content processed only on-device is not uploaded by us to our own servers for those features.
+
+Online / third-party AI processing Some optional features may send content over the internet to Google’s Generative AI / Gemini services (for example, advanced image-to-text or text refinement). When you use those features, the relevant image and/or text content is transmitted to Google so the feature can work.
+
+Your use of those features is also subject to Google’s own terms and privacy practices. Please review Google’s privacy policy and related AI service terms for details on how Google handles data.
+
+We do not control Google’s independent data practices.
+
+5. Speech recognition note
+
+Live speech-to-text may use your device’s built-in speech recognition services. Depending on your device and system settings, those services may process audio on-device or through the device manufacturer’s / platform provider’s services. We do not control those platform services.
+
+6. Sharing of information
+
+We do not sell, rent, or trade your personal information.
+
+Information may be shared only in these limited cases:
+
+With third-party AI providers (such as Google) when you use online AI features, as described above
+When you choose to share or export files yourself (for example via the system share sheet, email, messaging apps, or printing)
+If required by law, legal process, or to protect rights, safety, and security
+In connection with a business transfer (such as a merger or acquisition), if applicable
+7. Data retention
+
+We do not maintain a central account profile for you.
+
+Content you create generally remains on your device unless you delete it, clear app data, uninstall the App, or share/export it elsewhere. Temporary files created during processing (for example during audio conversion) are intended to be cleaned up by the App after use.
+
+Data sent to third-party AI services is handled according to those providers’ retention policies.
+
+8. Data security
+
+We take reasonable technical and organizational measures to protect information processed through the App. However, no method of electronic transmission or storage is completely secure, and we cannot guarantee absolute security—especially for content you choose to send to third-party online services.
+
+9. Children’s privacy
+
+The App is not directed to children under 13 (or the minimum age required in your country). We do not knowingly collect personal information from children. If you believe a child has provided personal information through the App in a way that concerns you, please contact us so we can help address it.
+
+10. International processing
+
+If you use online AI features, your content may be processed on servers located in other countries, depending on the third-party provider’s infrastructure and policies.
+
+11. Your choices and rights
+
+Depending on your location, you may have rights regarding your personal data, such as access, correction, deletion, or restriction of processing.
+
+Practically, you can:
+
+Revoke camera, microphone, or file permissions in device settings
+Delete generated text, images, audio selections, and exported files on your device
+Clear the App’s local data or uninstall the App
+Stop using online AI features if you do not want content sent to third-party services
+If you have a privacy-related request, contact us using the details below.
+
+12. Third-party services
+
+The App may rely on third-party technologies and services, including but not limited to:
+
+Google ML Kit (on-device text recognition)
+Google Generative AI / Gemini (optional online features)
+Device platform speech recognition services
+On-device Whisper-based transcription components
+System sharing, printing, and file access frameworks
+Those services are governed by their own privacy policies.
+
+13. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. The “Last updated” date at the top will change when we do. Continued use of the App after an update means you accept the revised policy, unless applicable law requires additional consent.
