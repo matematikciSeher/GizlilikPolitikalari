@@ -1,0 +1,56 @@
+Privacy Policy
+
+App: Mobil Cüzdan – Income & Expense Tracker (Income, Expense & Budget Tracker)
+Developer: Seher Aydın (AppNestMath)
+Contact: seheraydin4241@gmail.com
+Last updated: July 18, 2026
+
+This Privacy Policy explains how the mobile application Mobil Cüzdan – Income & Expense Tracker (com.yatirimparadefteri.app), published on Google Play, collects, uses, and protects your personal data. By using the app, you agree to this Privacy Policy.
+
+1. Data We Collect
+
+Account information (optional): Email address, user ID, and display name are processed through Firebase Authentication when you sign in with email/password or Google.
+
+Financial records: Income, expenses, transfers, amounts, dates, descriptions, categories, and custom column data that you enter. If you are signed in, this data may be stored in Google Firebase Firestore for cloud sync; otherwise it may be kept locally on your device.
+
+Local data: Preferences and table settings may be stored on your device (for example, local storage or shared preferences).
+
+Advertising data: The app displays Google AdMob banner ads. Google and its partners may collect advertising ID, device information, and usage data. Details are available in the Google Privacy Policy at https://policies.google.com/privacy.
+
+Currency / gold rates: For the currency converter feature, your requests may be sent to third-party API providers (for example, exchangerate-api.com, collectapi.com) to fetch rates. Only technical connection information is sent; your account and financial records are not shared with these APIs.
+
+2. How We Use Your Data
+
+We use your data to provide app features (records, reports, PDF export, sync); to create accounts, enable sign-in, and back up your data; to show advertisements in the free version; for security, troubleshooting, and service improvement; and to comply with legal obligations.
+
+3. Third Parties
+
+Your data may be shared with or processed by the following service providers: Google Firebase (Authentication, Firestore database), Google AdMob (advertising), Google Sign-In (optional sign-in), and currency / exchange-rate API providers (rate queries only). These providers are subject to their own privacy policies.
+
+4. Data Retention
+
+Cloud data is retained until you delete your account or request deletion. Local data on your device may be deleted when you uninstall the app or clear the app data.
+
+5. Your Rights (KVKK / GDPR)
+
+Depending on your country of residence, you may have the right to access and correct your data, request deletion, object to processing (within legal limits), and request data portability.
+
+To exercise these rights, email seheraydin4241@gmail.com. For account deletion, you may sign out in the app and send a deletion request by email; your Firestore and Authentication records will be deleted within a reasonable time.
+
+6. Children
+
+The app is not directed at children under 13. We do not knowingly collect data from children.
+
+7. Security
+
+We take reasonable technical and administrative measures to protect your data; however, no internet or electronic storage system is 100% secure.
+
+8. Changes
+
+We may update this policy. For material changes, the “Last updated” date will be revised. Continued use of the app means you accept the updated policy.
+
+9. Contact
+
+Seher Aydın
+Ertuğrul Mah., Sadık İleri Bulvarı, Torbalı / İzmir, Türkiye
+Email: seheraydin4241@gmail.com
