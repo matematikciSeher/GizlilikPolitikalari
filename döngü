@@ -109,3 +109,23 @@ We may request notification permission on your device to send reminder and infor
 11. Changes to This Policy
 
 We may update this Privacy Policy from time to time. Significant changes will be announced in the App or on this page. Continued use of the App after an update means you accept the revised policy.
+Third-Party AI Processing
+
+To provide personalized responses in the in-app AI assistant and to generate
+health analyses, we send certain data you enter in the app to Google's Gemini
+AI service (Google LLC / Google Ireland Ltd.).
+
+The data sent may include: your menstrual cycle records, symptoms, mood entries,
+and personal notes. This data is transmitted only when you use an AI feature
+(the AI chat assistant or an AI analysis), and only after you have given your
+explicit in-app consent.
+
+- We do not send your name, email address, or account identifiers to the AI service.
+- The data is used solely to generate a response or analysis for you.
+- Google processes this data under its own privacy terms, which provide
+  protections equivalent to those described in this policy. See Google's Privacy
+  Policy at https://policies.google.com/privacy and the Gemini API terms at
+  https://ai.google.dev/gemini-api/terms.
+- You can withdraw your consent at any time in Settings → Artificial
+  Intelligence → AI Data Sharing. When consent is off, no data is sent to the
+  AI service.
